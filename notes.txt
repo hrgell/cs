@@ -1,0 +1,25 @@
+Launch Options:
+-novid -threads 4 -freq 144 -refresh 144 -tickrate 128 -high -w 1366 -h 768 -no-browser +exec myconf.cfg
+
+Scaled down 1920 x 1080 = 1366 x 768 
+
+For watching demos:
+https://developer.valvesoftware.com/wiki/Demo_Recording_Tools
+demoplay
+demoui or demoui2 (shift+f2 ?)
+demo_timescale # (1=normal speed)
+r_drawothermodels # (0=invisible, 1=normal, 2=wireframes)
+spec_show_xray # (1=on, 0=off)
+weapon_debug_spread_show 1; cl_crosshairstyle 3
+The key for x-ray should be the same key as radio2.
+
+https://help.steampowered.com/en/wizard/HelpRequests
+
+– Users can now report players from their own recently played matches
+  provided the demo is viewed from the Watch Tab.
+– Matchmaking has been adjusted to increase the weight of Trust Factor.
+  Users with High Trust who experience cheating in their matches going
+  forward should report those experiences to CSGOTeamFeedback@valvesoftware.com
+  with the subject “Cheating in High Trust Matches.” Please include a
+  link to your steam community profile, approximate time of your match
+  and which game mode you were playing.
